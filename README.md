@@ -3,10 +3,6 @@
 <h3 align="center">
 Web Developer Jr 👨‍💻</h3>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
-</div>
-
 
 
 <h1 align="left">🚀 About Me</h1>
